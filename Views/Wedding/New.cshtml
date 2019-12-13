@@ -1,0 +1,29 @@
+@model Wedding
+
+<a href="/logout">Logout</a>
+<a href="/weddings/all">Dashboard</a>
+
+
+<form asp-action="Create" asp-controller="Wedding" method="post">
+ <div class="form-group">
+   <label asp-for="WedderOne"></label>
+   <span class="text-danger font-weight-bold" asp-validation-for="WedderOne"></span>
+   <input class="form-control" asp-for="WedderOne">
+ </div>
+ <div class="form-group">
+   <label asp-for="WedderTwo"></label>
+   <span class="text-danger font-weight-bold" asp-validation-for="WedderTwo"></span>
+   <input class="form-control" asp-for="WedderTwo">
+ </div>
+ <div class="form-group">
+   <label asp-for="DateOfWedding"></label>
+   <span class="text-danger font-weight-bold" asp-validation-for="DateOfWedding"></span>
+   <input class="form-control" asp-for="DateOfWedding">
+ </div>
+ <div class="form-group">
+   <label asp-for="Address"></label>
+   <span class="text-danger font-weight-bold" asp-validation-for="Address"></span>
+   <input class="form-control" asp-for="Address">
+ </div>
+ <button class="btn btn-info" type="submit">Create</button>
+</form>
