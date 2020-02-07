@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/WeddingPlanner.csproj",
+  "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/WeddingPlanner.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,63 +2961,63 @@
   "RootNamespace": "WeddingPlanner",
   "Documents": [
     {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Wedding/New.cshtml",
-      "TargetPath": "Views/Wedding/New.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Wedding/OneWedding.cshtml",
-      "TargetPath": "Views/Wedding/OneWedding.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Home/Login.cshtml",
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Home/Login.cshtml",
       "TargetPath": "Views/Home/Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/isaac/Desktop/C#/WeddingPlanner/Views/Wedding/All.cshtml",
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views/Home/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Wedding/New.cshtml",
+      "TargetPath": "Views/Wedding/New.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Wedding/All.cshtml",
       "TargetPath": "Views/Wedding/All.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/Wedding/OneWedding.cshtml",
+      "TargetPath": "Views/Wedding/OneWedding.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -12155,11 +12155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/isaac/Desktop/C#/WeddingPlanner/WeddingPlanner.csproj",
+      "projectUniqueName": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/WeddingPlanner.csproj",
       "projectName": "WeddingPlanner",
-      "projectPath": "/Users/isaac/Desktop/C#/WeddingPlanner/WeddingPlanner.csproj",
+      "projectPath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/WeddingPlanner.csproj",
       "packagesPath": "/Users/isaac/.nuget/packages/",
-      "outputPath": "/Users/isaac/Desktop/C#/WeddingPlanner/obj/",
+      "outputPath": "/Users/isaac/Desktop/web_dev/Coding Dojo/C#/WeddingPlanner/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
